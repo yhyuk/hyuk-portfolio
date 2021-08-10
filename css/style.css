@@ -8886,7 +8886,7 @@ h1, h2, h3, h4, h5,
 
 .progress-circle .progress .progress-left .progress-bar {
   left: 100%;
-  border-top-right-radius: 100px;
+  border-top-right-radius: 200px;
   border-bottom-right-radius: 200px;
   border-left: 0;
   -webkit-transform-origin: center left;
@@ -9220,8 +9220,7 @@ textarea.form-control {
   background-position: center center; }
 
 .my-developer {
-  width: 650px; height:650px;
-  /* border: 1px solid black; */
+  height:650px;
   border-radius: 50%;
   margin-top: 60px;
 }
